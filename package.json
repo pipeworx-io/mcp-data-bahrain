@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-bahrain",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bahrain government open data — population and census statistics, education, GDP and labor market data from Bahrain's national open data portal. Keyless.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-bahrain",
     "gatewaySlug": "data-bahrain",
-    "sourceHash": "v1-9659dfa844945dc0c34f2d1f71b364007677a380d3b8b44c6919c69f1d1992ca",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-21a5a48e03115d689c7ec53fcd7e994cdbda7a3fe6672ca3c45268895573e846",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
